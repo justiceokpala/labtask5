@@ -1,0 +1,11 @@
+C:\CodebitsAcademy\c#\daze-works\labtask5\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.exe
+C:\CodebitsAcademy\c#\daze-works\labtask5\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.deps.json
+C:\CodebitsAcademy\c#\daze-works\labtask5\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.runtimeconfig.json
+C:\CodebitsAcademy\c#\daze-works\labtask5\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.runtimeconfig.dev.json
+C:\CodebitsAcademy\c#\daze-works\labtask5\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.dll
+C:\CodebitsAcademy\c#\daze-works\labtask5\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.pdb
+C:\CodebitsAcademy\c#\daze-works\labtask5\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.csprojAssemblyReference.cache
+C:\CodebitsAcademy\c#\daze-works\labtask5\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\c#\daze-works\labtask5\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.AssemblyInfo.cs
+C:\CodebitsAcademy\c#\daze-works\labtask5\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.dll
+C:\CodebitsAcademy\c#\daze-works\labtask5\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.pdb
